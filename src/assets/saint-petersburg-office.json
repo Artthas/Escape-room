@@ -1,0 +1,17 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "title": "Санкт-Петербург, Набережная реки Карповка, д 5",
+        "description": ""
+      },
+      "geometry": {
+        "coordinates": [30.316477, 59.968115],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
